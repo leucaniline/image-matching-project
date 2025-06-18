@@ -1,0 +1,11 @@
+numpy
+opencv-python
+face_recognition
+scipy
+pillow
+matplotlib
+tensorflow==2.16.1
+keras==2.16.0
+keras_vggface
+tensorflow-hub
+h5py==3.8.0
